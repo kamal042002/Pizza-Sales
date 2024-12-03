@@ -12,7 +12,8 @@ I used My SQL to answer the questions
 and Power BI for visualization
 13 Ad-Hoc Requests and Answers:
 Here is the Data Model that I have created in Power BI for the Visualization part -
-https://github.com/user-attachments/assets/ccbad62c-8814-423c-855b-00fa41aa55e1)
+![Screenshot 2024-12-03 220514](https://github.com/user-attachments/assets/097a0901-b796-4a57-bea2-2bfb81d092c5)
+
 
 Tools used -
 
@@ -21,17 +22,21 @@ and Power BI for visualization
 12 Ad-Hoc Requests and Answers:
 -----------------------------------------------------------------------------------------------------------------------------
 1.Retrieve the total number of orders placed.
-(https://github.com/user-attachments/assets/ab683ffe-c9c5-4ef6-80a6-b432ed159737)
+![Screenshot 2024-11-18 183746](https://github.com/user-attachments/assets/6d2a1f21-bb54-4d4f-b664-ccc2b2df1140)
+
 
 2.Calculate the total revenue generated from pizza sales.
-(https://github.com/user-attachments/assets/83fa7e2d-9fa0-46ec-8169-710c802f1b9d)
+![Screenshot 2024-11-18 184142](https://github.com/user-attachments/assets/e0b487db-16af-43eb-ae65-e22cdae6a201)
+
 
 3.Identify the highest-priced pizza.
-(https://github.com/user-attachments/assets/94ea4e82-f897-46f1-9f84-0f1cd3d3b3cc)
+![Screenshot 2024-11-18 184345](https://github.com/user-attachments/assets/473521a8-07ba-4bef-83e6-6eb97d926250)
+
 
 
 4.Identify the most common pizza size ordered.
-(https://github.com/user-attachments/assets/20772401-f69e-456b-977b-95e547e64645)
+![Screenshot 2024-11-18 184631](https://github.com/user-attachments/assets/f4ddb0e9-210f-4295-81c1-bae377accbd1)
+
 
 
 5.List the top 5 most ordered pizza types along with their quantities.
@@ -39,30 +44,37 @@ and Power BI for visualization
 
 
 6.Join the necessary tables to find the total quantity of each pizza category ordered.
-(https://github.com/user-attachments/assets/1f866d7b-3c71-40f4-ba6d-932577324e04)
+![Screenshot 2024-11-18 185700](https://github.com/user-attachments/assets/1180b96b-d836-4787-9449-01a4fed555a9)
+
 
 
 7.Determine the distribution of orders by hour of the day.
-(https://github.com/user-attachments/assets/657159c3-1477-4496-aa01-f4464689df4e)
+![Screenshot 2024-11-18 190113](https://github.com/user-attachments/assets/c9852cd6-ae1e-4bba-8a1d-f66c5ee56eb8)
+
 
 
 
 8.Join relevant tables to find the category-wise distribution of pizzas.
-(https://github.com/user-attachments/assets/1b83e3cb-91d4-4014-9dea-a778fd6f26b4)
+![Screenshot 2024-11-18 192132](https://github.com/user-attachments/assets/f6cf910a-fc63-411d-be6d-7699dcfe989b)
+
 
 
 9.Group the orders by date and calculate the average number of pizzas ordered per day.
-(https://github.com/user-attachments/assets/18a8bda9-201e-4cf5-92df-235dd4ffca92)
+![Screenshot 2024-11-18 192713](https://github.com/user-attachments/assets/2b44df8d-74fd-43a5-8e25-dc50ccdfa760)
+
 
 10.Determine the top 3 most ordered pizza types based on revenue.
-(https://github.com/user-attachments/assets/d4833ff4-1a77-454f-b5f6-f63da1170ee6)
+![Screenshot 2024-11-18 194422](https://github.com/user-attachments/assets/3a52177f-6c37-46dc-8ce3-3a361aefe1a3)
+
 
 
 11.Calculate the percentage contribution of each pizza type to total revenue.
-(https://github.com/user-attachments/assets/e11fb0ab-66b2-456c-9c08-2127084a6831)
+![Screenshot 2024-12-03 221811](https://github.com/user-attachments/assets/c2d73f43-4f64-4a4a-86ba-adf5e39da840)
+
 
 
 
 12.Determine the top 3 most ordered pizza types based on revenue for each pizza category.
-(https://github.com/user-attachments/assets/8d56be88-b317-4824-8301-554bb8b590e7)
+![Screenshot 2024-12-03 222049](https://github.com/user-attachments/assets/1066584a-01f2-47a7-b7c0-cc321a3ce77d)
+
 
