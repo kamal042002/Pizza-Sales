@@ -69,7 +69,8 @@ and Power BI for visualization
 
 
 11.Calculate the percentage contribution of each pizza type to total revenue.
-![Screenshot 2024-12-03 221811](https://github.com/user-attachments/assets/c2d73f43-4f64-4a4a-86ba-adf5e39da840)
+![Screenshot 2024-12-03 221811](https://github.com/user-attachments/assets/08c8e351-b55f-4f58-bb6c-fc7701dd0782)
+
 
 
 
