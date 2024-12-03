@@ -72,9 +72,6 @@ and Power BI for visualization
 ![Screenshot 2024-12-03 221811](https://github.com/user-attachments/assets/08c8e351-b55f-4f58-bb6c-fc7701dd0782)
 
 
-
-
-
 12.Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 ![Screenshot 2024-12-03 222049](https://github.com/user-attachments/assets/1066584a-01f2-47a7-b7c0-cc321a3ce77d)
 
